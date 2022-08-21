@@ -6,7 +6,7 @@
 
 This is an E-Library Website in which you get Resources to learn different topics, Donate book section to donate your old books, and a Book issue section to keep a record of all the books issued.
 This website helps you to find the books easily without any cost and the best part about the website is that you can also contribute to the website for others to use the resourses by donating the books you have , all categories of books are welcomed for donation. 
-Come forward to donate the books !!!  
+
 
 
 ## Project Track
@@ -44,6 +44,8 @@ The distribution process is controlled and centralised by E-Library, reducing th
 ## License
 
 This project is licensed under the [**MIT license**](https://github.com/SauravMukherjee44/Aec-Library-Website/blob/main/LICENSE).
+
+Come forward to donate the books !!!  
 
 <h1 align="center">
 
